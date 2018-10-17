@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'Q'
 - !lcsh 'Scientists -- Biography'
+- GITenberg
 tableOfContents: Galileo Galilei -- Sir Isaac Newton -- Carl Linnaeus -- Baron Cuvier
   -- Sir William and Caroline Herschel -- Alexander von Humboldt -- Sir Humphrey Davy
   -- John James Audubon -- Samuel Finley Breese Morse -- Sir Charles Lyell -- Joseph
